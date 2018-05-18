@@ -1,3 +1,6 @@
 [submodule "demo"]
 	path = demo
 	url = https://github.com/ahmad88me/demo.git
+[submodule "abc/anotherdemo"]
+	path = abc/anotherdemo
+	url = https://github.com/ahmad88me/anotherdemo.git
